@@ -1,9 +1,8 @@
 <header>
-	<div align="center">
+	<div align="left">
 		<h1>Palm Tree Dental Associates</h1>
-		<img src="https://i.ibb.co/ZGF1qZc/main.png" alt="main" border="0" />
+		<h3>Palm Tree Dental Associates is a dental care clinic that offers a range of services to meet the dental needs of individuals and families. With a team of skilled and experienced dental professionals, Palm Tree Dental Associates provides personalized care and treatment options in a comfortable and welcoming environment. Whether it's a routine check-up or a more complex procedure, patients can trust that they will receive the highest quality care at Palm Tree Dental Associates.</h3>
 	</div>
-	<h3 align="center">Palm Tree Dental Associates is a dental care clinic that offers a range of services to meet the dental needs of individuals and families. With a team of skilled and experienced dental professionals, Palm Tree Dental Associates provides personalized care and treatment options in a comfortable and welcoming environment. Whether it's a routine check-up or a more complex procedure, patients can trust that they will receive the highest quality care at Palm Tree Dental Associates.</h3>
 </header>
 <hr />
 <h2>Technologies Implemented</h2>
